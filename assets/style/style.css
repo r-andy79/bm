@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:after, *:before {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 16px;
+}
+
+.nav__item {
+  padding: 0 16px;
+}
