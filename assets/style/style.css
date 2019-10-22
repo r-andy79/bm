@@ -28,5 +28,45 @@ body {
 }
 
 .active {
-  border-bottom: 1px solid red;
+  border-bottom: 2px solid red;
+}
+
+.home {
+  height: 100vh;
+  background: salmon;
+}
+
+.about {
+  height: 100vh;
+  background: tomato;
+}
+
+.news {
+  height: 100vh;
+  background: yellow
+}
+
+.music {
+  height: 100vh;
+  background: yellowgreen
+}
+
+.instagram {
+  height: 100vh;
+  background: blueviolet;
+}
+
+.blog {
+  height: 100vh;
+  background: pink;
+}
+
+.facebook {
+  height: 100vh;
+  background: teal;
+}
+
+.contact {
+  height: 100vh;
+  background: orange;
 }
